@@ -92,9 +92,33 @@ No archive collection is currently needed. If source material is later supersede
 
 Update links, heading targets, navigation, and ownership statements together within editable author-facing documentation. Report affected corpus references for the user to update. When a foundational decision changes, trace direct and likely indirect consequences through dependent notes. Surface substantive contradictions rather than selecting answers solely to make files agree.
 
-Before handoff, compare the file inventory and changes for information loss, check affected links and Markdown, and verify status and deferral boundaries. Check new files as well as tracked diffs. `git diff --check` checks whitespace only. Use file comparisons when Git is unavailable. Report checks and limitations accurately.
+Before handoff, apply the validation scope below and verify affected approval, provenance, and deferral boundaries. Check new files as well as existing edits. Report checks and limitations accurately. `git diff --check` checks whitespace only. File comparisons can verify changes without using Git.
 
-When changing local guidance, verify it in an isolated copy with its local dependencies. Check that links resolve, template tokens are absent, and ordinary work needs no parent folder, sibling project, absolute workspace path, or external symlink.
+Local guidance must contain its required rules and dependencies without relying on a parent folder, sibling project, absolute workspace path, or external symlink. Check this under the portability conditions below.
+
+## Validation Scope and Stopping Rule
+
+Validate changed material and dependencies that the change could affect. Do not revalidate unrelated content by default. Review the relevant diff or before/after comparison, including new files, for unintended changes and information loss.
+
+| Change | Check |
+| --- | --- |
+| Ordinary prose correction | Review the edited prose. Skip link checks if targets, headings, paths, and link syntax are unchanged. |
+| Link added or target changed | Resolve that link and any heading target. |
+| Display label changed | Check syntax and escaping. Recheck the destination only if its target or resolution context changed. |
+| Heading renamed or removed | Find and check references to that heading. |
+| File moved, renamed, or deleted | Find inbound references and check affected relative links, embeds, navigation, and stale path mentions. |
+| Table or structural Markdown edited | Check the affected table's cell counts and pipe escaping, or the affected headings, fences, and surrounding structure. |
+| Numerical or foundational content changed | Check the affected values, interpretations, and dependent references within the authorized scope. |
+
+An affected link may be in an otherwise unchanged file. Use a targeted search across editable documentation to find inbound references when needed. This is not a reason to validate every unrelated link. Corpus protection still applies, including during dependency searches.
+
+Batch related edits before checking them. Once a relevant check passes, stop. Repeat only checks whose inputs or dependencies changed, checks needed to investigate an unresolved failure, or checks justified by new evidence or an explicit request. One successful check can satisfy several workflow steps. Do not repeat it merely to produce another handoff summary or report a larger check count.
+
+Broaden validation only when requested or when the actual change or evidence warrants it, such as widespread path changes or failures suggesting a systemic problem. State the reason and limit the scope accordingly. A bootstrap checks the new starter and its local dependencies, not neighbouring projects.
+
+Check portability when guidance is first adopted or when paths, dependencies, or instruction routing change. Inspect the affected guidance and local dependencies first. Use a temporary isolated copy only when it would resolve a concrete uncertainty about external dependencies or when explicitly requested. Ordinary wording edits do not require an isolated copy.
+
+Report the checks actually performed and any relevant limits. Do not maintain validation logs, version fields, or recurring audit dates solely to support this rule.
 
 ## Local Adaptations
 
