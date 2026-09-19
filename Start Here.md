@@ -4,26 +4,49 @@
 
 **Status: Active**
 
-A realistic post-nuclear-apocalypse Québec project. The current foundation consists of the surviving initial brief and realism constraint. Detailed setting and narrative choices remain open, and their development is explicitly deferred.
+A realistic post-nuclear-apocalypse Québec setting beginning in September 1983. Enough of the provincial state survives to maintain organised society, while famine and emergency policy transform it into an authoritarian, materially poorer order. The early setting is documented here. Post-2000 scenarios remain provisional and explicitly deferred.
 
-## Suggested Reading Route
+## Foundation
 
-1. [[00 Core/01 Premise|Premise]] establishes the brief and its open boundaries
-2. [[00 Core/02 Axioms|Axioms]] records the realism constraint and the distinction between evidence, assumptions, and fiction
-3. [[99 Workshop/00 Revision Priorities|Revision Priorities]] records deferred decisions and a proposed order for returning to them
+- [[00 Core/01 Premise|Premise]] owns the selected setting foundation and narrative boundaries
+- [[00 Core/02 Axioms|Axioms]] owns the design constraints
+- [[00 Core/03 Integration Decisions|Integration Decisions]] records adoption scope and source provenance
+- [[00 Core/04 Terminology|Terminology]] records proposed names and labels
 
-## Working Tools
+## World and Early History
 
-- [[Documentation Conventions]] owns filing, status, language, links, and maintenance
-- [[99 Workshop/01 Development Method and Order|Development Method and Order]] provides a research and decision process for use when development resumes
-- [[AGENTS|Agent Instructions]] gives the short operating boundaries for assistants
+- [[01 World/Early Chronology|Early Chronology]]
+- [[01 World/Nuclear Exchange and Immediate Damage|Nuclear Exchange and Immediate Damage]]
+- [[01 World/Climate and Fallout|Climate and Fallout]]
+- [[01 World/Québec City and Valcartier|Québec City and Valcartier]]
+- [[01 World/Montréal and Southern Québec|Montréal and Southern Québec]]
 
-Begin future work with the question you want to resolve and its current owner. Add subject notes as actual material needs a home. Presence in this index does not confer approval.
+## Technologies and Infrastructure
 
-## Brainstorm Intake
+- [[10 Technologies and Infrastructure/Electricity and Communications|Electricity and Communications]]
+- [[10 Technologies and Infrastructure/Food Production|Food Production]]
+- [[10 Technologies and Infrastructure/Health, Water and Sanitation|Health, Water and Sanitation]]
+- [[10 Technologies and Infrastructure/Transport and Industrial Capacity|Transport and Industrial Capacity]]
 
-The first integration batch preserves and classifies the author's revised handoff. Proposed setting choices await review, and material from 2000 onward remains provisional and explicitly deferred.
+## Institutions and Society
 
-- [[99 Workshop/Brainstorm Intake/Classification Review|Classification Review]] groups foundation candidates, reported working directions, and open choices
-- [[99 Workshop/Brainstorm Intake/Source Record|Source Record]] describes provenance, revisions, and the preserved handoff
-- [[99 Workshop/Brainstorm Intake/Integration Inventory|Integration Inventory]] accounts for all source sections and their proposed later destinations
+- [[11 Society/Government and Emergency Rule|Government and Emergency Rule]]
+- [[11 Society/Hydro-Québec|Hydro-Québec]]
+- [[11 Society/Military and Security|Military and Security]]
+- [[11 Society/Displacement and Coercive Labour|Displacement and Coercive Labour]]
+- [[11 Society/Economy and Food Allocation|Economy and Food Allocation]]
+- [[11 Society/Northern Communities and Indigenous Relations|Northern Communities and Indigenous Relations]]
+- [[11 Society/External Relations and Trade|External Relations and Trade]]
+- [[11 Society/Everyday Life and Cultural Change|Everyday Life and Cultural Change]]
+
+## Working Tools and Deferred Material
+
+- [[99 Workshop/Later Scenarios|Later Scenarios]] retains contingent post-2000 ideas
+- [[99 Workshop/00 Revision Priorities|Revision Priorities]] owns the development queue
+- [[99 Workshop/01 Development Method and Order|Development Method]] supports research and selection
+- [[99 Workshop/Brainstorm Intake/Integration Inventory|Integration Inventory]] records source coverage
+- [[98 Temp/Brainstorm Integration Plan|Integration Plan]] tracks completed and remaining batches
+- [[Documentation Conventions]] owns filing, statuses and formatting
+- [[AGENTS|Agent Instructions]] defines the operating boundaries
+
+Use the topical owner for the current answer. The archived handoff records provenance and does not override these notes.

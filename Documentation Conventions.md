@@ -20,21 +20,22 @@ The following locations currently exist:
 | --- | --- |
 | Root | Entry page, short agent instructions, and documentation conventions. |
 | `00 Core` | Premise and durable design constraints. Add story intent, terminology, or inspirations only when there is material to record. |
-| `99 Workshop` | Development queue, method, and future research or comparisons. Selected topical answers belong in their subject owners. |
+| `99 Workshop` | Development queue, method, deferred later scenarios, and the compact integration inventory. Stable setting detail belongs in topical owners. |
+| `01 World` | Geography, environments, history, places, and local infrastructure conditions. |
+| `10 Technologies and Infrastructure` | Recurring capabilities, dependencies, maintenance, and constraints. |
+| `11 Society` | Communities, institutions, governance, economy, culture, and ordinary life. |
+| `97 Assets/Source Archive` | Immutable source snapshots for provenance, superseded by current topical references. |
+| `98 Temp` | Temporary planning material, including the integration progress plan. |
 | `.obsidian` | Existing editor settings, themes, and plugins. Preserve their native format and state. |
 | `.agents` and `.codex` | Existing agent configuration locations. Preserve unless changes are requested. |
 
-The following expansion map is available when content needs it. These folders have not been created by the bootstrap:
+The following expansion map remains available when content needs it:
 
 | Future location | Responsibility and boundary |
 | --- | --- |
-| `01 World` | Geography, environments, history, places, and local conditions. A place note owns the location and condition of its infrastructure. |
-| `10 Technologies and Infrastructure` | Recurring technical capabilities, dependencies, maintenance, and constraints. Link local installations to these mechanism owners. |
-| `11 Society` | Communities, institutions, governance, economy, culture, and ordinary life. A community note owns its organisation, with links to its physical location. |
 | `80 Narrative` | Author-facing characters, viewpoints, relationships, arcs, and scene planning. |
 | `90 Corpus` | The author's creative prose and drafts, protected by the corpus boundary. |
 | `97 Assets` | Supporting attachments, such as images and PDFs. Keep important reference prose in a topical note. |
-| `98 Temp` | Incidental Obsidian-generated files. Keep valuable work elsewhere and review contents before removal. |
 
 Keep fixed `00 Core` and `01 World` first, followed by the project-specific domains in slots `10` and `11`. Add further domains before `80 Narrative` only when useful. Creating attachment or temporary folders does not authorise changes to editor settings.
 
@@ -46,7 +47,7 @@ One document owns each detailed answer. Other notes provide enough context to be
 
 Keep detailed open questions with the topic. The revision queue owns work order and deferral. Research and calculation notes own supporting analysis, while setting references record selected results and their limits. Split by independent purpose or retrieval, not length alone.
 
-Until narrower subject notes exist, [[00 Core/01 Premise|Premise]] owns the open setting and narrative boundaries, and [[00 Core/02 Axioms|Axioms]] owns the realism constraint.
+[[00 Core/01 Premise|Premise]] owns the selected foundation and open narrative boundaries. [[00 Core/02 Axioms|Axioms]] owns design constraints. Topical notes own detailed setting context and their unresolved questions. [[00 Core/03 Integration Decisions|Integration Decisions]] records the scope of the handoff adoption.
 
 ## Status and Approval
 
@@ -90,7 +91,7 @@ In Markdown tables, escape every pipe belonging to cell content with exactly one
 
 Follow the user's authorised scope and preserve unrelated work. Organisation changes do not resume explicitly deferred development. Preserve existing `.obsidian`, `.agents`, and `.codex` state unless changes are requested.
 
-No archive collection is currently needed. If source material is later superseded, account for its useful information, authority, and provenance before moving or removing it. Review markers and temporary locations do not make content disposable.
+The imported handoff is retained as an archival source snapshot, not a parallel setting reference. When source material is superseded, account for its useful information, authority, and provenance before moving or removing it. Review markers and temporary locations do not make content disposable.
 
 Update links, heading targets, navigation, and ownership statements together within editable author-facing documentation. Report affected corpus references for the user to update. When a foundational decision changes, trace direct and likely indirect consequences through dependent notes. Surface substantive contradictions rather than selecting answers solely to make files agree.
 
@@ -124,6 +125,6 @@ Report the checks actually performed and any relevant limits. Do not maintain va
 
 ## Local Adaptations
 
-Adapted from Writing Project Standards using its bootstrap workflow and selected project templates. The surviving premise and axioms retain their wording and status. The starter adds a queue and development method because the premise already points to deferred work. Additional subject folders are reserved for future content.
+Adapted from Writing Project Standards using its bootstrap workflow and selected project templates. The initial starter preserved the surviving brief. The author subsequently authorised adoption of the handoff's early setting and design constraints. Topic folders now hold that material, while later scenarios remain deferred.
 
 These rules are self-contained. Later changes to the source model do not automatically change this project. No assumptions about other fictional settings apply here.

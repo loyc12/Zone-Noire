@@ -4,32 +4,20 @@
 
 **Status: Active**
 
-This page owns work order and explicit deferrals. Detailed questions and selected answers belong in their topical owners. Listing work here does not authorise it or approve its possible outcomes.
-
 ## Current State
 
-The project has its local operating guidance and a preserved brainstorming handoff. The authorised preservation and classification batch is prepared in [[99 Workshop/Brainstorm Intake/Classification Review|Classification Review]], with provenance and coverage recorded alongside it. Fictional selections, later integration batches, and further setting development remain pending. Material from 2000 onward is explicitly deferred.
+Preservation, classification and early-setting import are complete. [[00 Core/03 Integration Decisions|Integration Decisions]] records the author's approval scope. The stable foundation and early working context now live in project folders. The following queue proposes further work without selecting answers or claiming that research has been completed.
 
-## When Development Resumes
-
-The following is a suggested dependency order. Every item is currently deferred, and the author can choose another starting point.
-
-| Order | Decision or investigation | Current owner | State |
+| Priority | Focus | Owner | State |
 | --- | --- | --- | --- |
-| 1 | Establish the temporal and geographic frame, including date, elapsed time, and the area in focus. | [[00 Core/01 Premise\|Premise]] | Explicitly deferred |
-| 2 | Bound the conflict scenario and identify the assumptions needed to research local consequences. | [[00 Core/01 Premise\|Premise]] | Explicitly deferred |
-| 3 | Research consequences under those assumptions, keeping evidence and inferred outcomes distinguishable. | [[00 Core/02 Axioms\|Axioms]] | Explicitly deferred |
-| 4 | Develop local conditions, surviving infrastructure, and communities as the selected scope requires. | [[00 Core/01 Premise\|Premise]] | Explicitly deferred |
-| 5 | Select protagonists, narrative form, tone, and any in-setting meaning for the title. | [[00 Core/01 Premise\|Premise]] | Explicitly deferred |
+| 1 | Bound escalation, target assumptions and surviving military capacity | [[01 World/Nuclear Exchange and Immediate Damage\|Exchange]] and [[01 World/Québec City and Valcartier\|Québec City and Valcartier]] | Open |
+| 2 | Separate climate, crop and food-system recovery, then bound demographic consequences | [[01 World/Climate and Fallout\|Climate and Fallout]], [[10 Technologies and Infrastructure/Food Production\|Food Production]] and [[01 World/Early Chronology\|Early Chronology]] | Open |
+| 3 | Establish actual 1983 personnel, assets and institutional capacity before refining successors | [[11 Society/Government and Emergency Rule\|Government]], [[11 Society/Hydro-Québec\|Hydro]] and [[11 Society/Military and Security\|Security]] | Research pending |
+| 4 | Refine distribution, displacement, coercive labour and regional differences | [[11 Society/Economy and Food Allocation\|Allocation]] and [[11 Society/Displacement and Coercive Labour\|Displacement and Labour]] | Open |
+| 5 | Resolve northern infrastructure access and political relationships | [[11 Society/Northern Communities and Indigenous Relations\|Northern Relations]] | Open |
+| 6 | Review proposed names, singular/plural forms and source spellings | [[00 Core/04 Terminology\|Terminology]] | Provisional |
+| 7 | Reassess later reconstruction, political transition and social memory after early dependencies develop | [[99 Workshop/Later Scenarios\|Later Scenarios]] | Explicitly deferred |
 
-These owner links point to the surviving boundaries, not completed topical references. Create narrower owners as substantive development produces material and update the queue links accordingly. Narrative choices may guide the earlier steps rather than waiting for a complete setting.
+Detailed questions and expansion prompts belong in their owners. This queue owns order only. The [[98 Temp/Brainstorm Integration Plan|integration plan]] records remaining integration work, and [[99 Workshop/01 Development Method and Order|Development Method]] describes the research and decision process.
 
-## Explicit Deferrals
-
-The premise states: "Further setting development is deferred until the author resumes it." The bootstrap restores organisation and navigation within that boundary. It selects no disaster scenario, survivor population, community, protagonist, or interpretation of the title.
-
-## Queue Maintenance
-
-When the author resumes an item, mark its actual development state. When an authorised decision resolves it, update its owner and affected dependants, then remove the queue entry or replace it with a brief link. Preserve unresolved alternatives and their provenance.
-
-[[Documentation Conventions]] owns status and maintenance rules. [[99 Workshop/01 Development Method and Order|Development Method and Order]] provides the working process.
+Narrative form, protagonists, language and voice remain open under Premise. No narrative development or corpus writing is included in the import.

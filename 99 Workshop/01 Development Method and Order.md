@@ -4,15 +4,15 @@
 
 **Status: Active**
 
-This method supports author-facing development when the author resumes it. It establishes no fictional canon and does not lift the deferral recorded in [[00 Core/01 Premise|Premise]].
+This method supports the resumed early-setting work within [[00 Core/01 Premise|Premise]]. It establishes no additional fictional facts and does not lift the post-2000 deferral.
 
 ## Working Loop
 
-1. State the question, its owner, and the scope authorised for the current task.
-2. Identify existing constraints, open dependencies, and alternatives. Separate real-world evidence from scenario assumptions.
-3. Research the question at the geographic and temporal scale it requires. Record sources and limitations. Leave unsupported outcomes open.
-4. Trace relevant consequences under explicit assumptions. Distinguish estimates and inferences from observed facts and author-selected fiction.
-5. Present consequential choices for authorial selection. Record authorised results in their topical owners with their actual status and update dependent notes.
+1. State the question, its owner, and the scope authorised for the current task
+2. Identify existing constraints, open dependencies, and alternatives. Separate real-world evidence from scenario assumptions
+3. Research the question at the geographic and temporal scale it requires. Record sources and limitations. Leave unsupported outcomes open
+4. Trace relevant consequences under explicit assumptions. Distinguish estimates and inferences from observed facts and author-selected fiction
+5. Present consequential choices for authorial selection. Record authorised results in their topical owners with their actual status and update dependent notes
 
 ## Knowledge Layers
 

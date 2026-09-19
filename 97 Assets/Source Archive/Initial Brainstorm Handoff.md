@@ -1948,13 +1948,13 @@ To be "sur le Réseau" may imply effective integration into the functioning stat
 
 Status: **PROVISIONAL**
 
-## Le Long Hiver
+## Le Grand Hiver
 
 Possible popular term for the multiyear post-nuclear climatic shock.
 
 Status: **PROVISIONAL**
 
-## L'Été noir
+## L'Été Noir
 
 Possible name for the catastrophic 1984 growing season.
 
@@ -2004,15 +2004,15 @@ Possible term for state-controlled industrial labour facilities.
 
 Status: **PROVISIONAL**
 
-## Centres d'affectation industrielle - CDAI
+## Centres d'Affectation Industrielle - CDAI
 
-Possible formal analogue to the camp labour system for industrial work.
+Possible formal camp labour system for industrial work.
 
 Status: **PROVISIONAL**
 
 ## Centres de Restoration Agricole - CDRA
 
-Possible formal analogue to the camp labour system for agricultural work.
+Possible formal  camp labour system for agricultural work.
 
 Status: **PROVISIONAL**
 
