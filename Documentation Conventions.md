@@ -82,6 +82,8 @@ Prefer Obsidian wikilinks with vault-relative targets for cross-folder reference
 
 Use a coherent heading hierarchy. Preserve intentional formatting, equations, code fences, frontmatter, and plugin-managed syntax. Link at useful first occurrences and to headings when helpful.
 
+Omit item-final full stops, commas, and semicolons in bullet points and comparable lists. Keep short items together without blank lines between them. Use blank lines when long sentences or paragraphs warrant the extra separation. Preserve punctuation within items and in quotations. Apply this convention within the authorised editing scope and corpus boundary.
+
 In Markdown tables, escape every pipe belonging to cell content with exactly one backslash: `\|`. This includes inline code and Obsidian labels such as `[[Target\|Label]]`. Leave structural column separators unescaped. Outside tables, use `[[Target|Label]]`. Check cell counts after table edits and adjust escaping when moving text into or out of tables. Link examples in code spans are illustrative, not navigation targets.
 
 ## Changes and Handoff

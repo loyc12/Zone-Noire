@@ -8,7 +8,7 @@ This page owns work order and explicit deferrals. Detailed questions and selecte
 
 ## Current State
 
-The project has its local operating guidance. Further setting development remains explicitly deferred under [[00 Core/01 Premise|Premise]]. No substantive development item is active.
+The project has its local operating guidance and a preserved brainstorming handoff. The authorised preservation and classification batch is prepared in [[99 Workshop/Brainstorm Intake/Classification Review|Classification Review]], with provenance and coverage recorded alongside it. Fictional selections, later integration batches, and further setting development remain pending. Material from 2000 onward is explicitly deferred.
 
 ## When Development Resumes
 
