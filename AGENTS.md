@@ -8,6 +8,7 @@ Zone Noire explores a realistic post-nuclear-apocalypse Québec. The premise and
 - Follow the user's authorised scope. Organisation work does not approve fictional content or resume deferred development
 - Validate changed material and affected dependencies only by default. Do not run full-project checks or repeat passing checks without relevant new edits, unresolved failures, new evidence, or an explicit audit request. Batch related edits and reuse checks across workflow steps
 - Preserve approval scope, provenance, alternatives, and explicit deferrals. Distinguish research evidence, scenario assumptions, inferred consequences, and selected fiction. Surface consequential contradictions instead of silently resolving them
+- Research for credible plausibility, not exhaustive proof. When useful sources run out, raise material gaps to the author with plausible gap-fillers and a recommendation; missing exact data need not block development. Follow the stopping and labelling rules in [Documentation Conventions](Documentation%20Conventions.md) and [Research Method](99%20Workshop/Research/Research%20Method.md)
 - Use Canadian English for author-facing documentation. Preserve French names, accents, quotations, and intentional multilingual text. The language and voice of the eventual narrative remain undecided
 - Keep prose clear and direct. Minimise em dashes and semicolons
 - Preserve existing editor, plugin, and agent configuration. Do not change `.obsidian`, `.agents`, or `.codex` as part of ordinary documentation work

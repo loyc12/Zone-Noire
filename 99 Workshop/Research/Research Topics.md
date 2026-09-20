@@ -4,9 +4,9 @@
 
 **Status: Active**
 
-**Scope: The September 1983 event through Lévesque's death, provisionally around 1987**
+**Scope: The September 1983 event through [[12 People/René Lévesque|Lévesque]]'s death, provisionally around 1987**
 
-Choose one numbered topic for a research pass, or batch closely related small topics. Each topic should produce its own note using [[99 Workshop/Research/Research Method|Research Method]]. The inputs below are specific dependencies, not a requirement to finish every earlier topic. Where an input remains unknown, research conditional ranges and state the assumption. [[99 Workshop/00 Revision Priorities|Revision Priorities]] owns the broader work order and deferrals.
+Choose one numbered topic for a research pass, or batch closely related small topics. Each topic should produce its own note using [[99 Workshop/Research/Research Method|Research Method]] and, when useful, [[99 Workshop/Research/Research Note Template|Research Note Template]]. The inputs below are specific dependencies, not a requirement to finish every earlier topic. Where an input remains unknown, use conditional ranges and state the assumption. A topic can reach a usable, explicitly uncertain recommendation without a complete historical dataset. [[99 Workshop/00 Revision Priorities|Revision Priorities]] owns the broader work order and deferrals.
 
 ## Quick Starts
 
@@ -20,7 +20,9 @@ These are preliminary ratings for **pre-event baseline slices**, not for each fu
 | 4 | Topic 11: 1983 generating equipment and electrical capacity | Medium | High: grid survival, Hydro's reach and northern access |
 | 5 | Topic 10: 1983 military and police organisation | Medium | Medium: command and recruitment, subject to local survival |
 
-The real false-alarm history in topic 1 is accessible, but the precise escalation chain is intentionally outside scope. Its missile-undermaintenance question has greater downstream value and harder evidence. The climate, fallout and mortality outcomes likewise need scenario inputs before a decisive pass. Keep the easy baseline work separate from those later conclusions.
+Initial source scans and provisional authorial-veto options: [[99 Workshop/Research/1983 Québec Government Baseline|government]], [[99 Workshop/Research/1981 Québec Population Baseline|population]], [[99 Workshop/Research/1981 Québec Agriculture Baseline|agriculture]], [[99 Workshop/Research/1983 Québec Electricity Baseline|electricity]] and [[99 Workshop/Research/1983 Québec Security Baseline|security]]. Each note distinguishes a usable approximation from research still worth doing. The fuller topic questions below remain open; no proposed gap-filler has been selected as setting fact.
+
+The real false-alarm history in topic 1 is accessible, but the precise escalation chain is intentionally outside scope. Its missile-undermaintenance question has greater downstream value and harder evidence. Climate, fallout and mortality can be studied with explicit scenario ranges while their inputs remain open. Keep the easy baseline work separate from those later conclusions.
 
 ## Exchange and Immediate Damage
 
@@ -64,15 +66,15 @@ These baseline topics can begin alongside the physical research. Their fictional
 
 ### 9. Lévesque and Québec Government
 
-Establish the actual 1983 cabinet, constitutional and emergency powers, referendum politics, Lévesque's political record and administrative capacity. Assess plausible early claims to authority without choosing his fictional decisions or a successor. Owners: [[11 Society/Government and Emergency Rule|Government and Emergency Rule]] for the institution and [[12 People/René Lévesque|René Lévesque]] for the person summary
+Identify the documented 1983 cabinet, constitutional and emergency powers, referendum politics and Lévesque's political record. Use that evidence to estimate administrative capacity and propose plausible early claims to authority. Present unresolved political choices to the author without selecting his fictional decisions or a successor. Owners: [[11 Society/Government and Emergency Rule|Government and Emergency Rule]] for the institution and [[12 People/René Lévesque|René Lévesque]] for the person summary
 
 ### 10. Military and Police
 
-Establish the 1983 forces, personnel, equipment, command and supply arrangements relevant to Québec. Test how rapidly a mixed emergency force could form, including volunteers and possible later conscription. Input: topic 3 for Valcartier survival when assessing post-event capacity. Owner: [[11 Society/Military and Security|Military and Security]]
+Identify documented 1983 forces, personnel, equipment, command and supply arrangements relevant to Québec. Where detailed records are sparse, use organisational structure and comparable formations to propose bounded estimates. Test how rapidly a mixed emergency force could form, including volunteers and possible later conscription. Input: topic 3 for Valcartier survival when assessing post-event capacity. Owner: [[11 Society/Military and Security|Military and Security]]
 
 ### 11. Hydro, Grid and Northern Access
 
-Map relevant 1983 generation, transmission, control and repair capacity. Distinguish an operating northern plant from power deliverable to southern Québec, and test likely communication and maintenance limits. Local service conclusions need damage assumptions from topics 2–3; the historical network baseline does not. Owners: [[11 Society/Hydro-Québec|Hydro-Québec]] and [[10 Technologies and Infrastructure/Electricity and Communications|Electricity and Communications]]
+Map the documented 1983 generation and transmission system, then estimate poorly recorded control and repair capacity within explicit assumptions. Distinguish an operating northern plant from power deliverable to southern Québec, and test likely communication and maintenance limits. Local service conclusions need damage assumptions from topics 2–3; the historical network baseline does not. Owners: [[11 Society/Hydro-Québec|Hydro-Québec]] and [[10 Technologies and Infrastructure/Electricity and Communications|Electricity and Communications]]
 
 ## Early Social and Economic Responses
 

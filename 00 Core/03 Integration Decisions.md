@@ -30,7 +30,7 @@ The import preserves the source's concrete lists, alternatives and expansion que
 
 ## Early-Era Direction After the Import
 
-The author has selected the event through René Lévesque's death, provisionally around 1987, as the active development period. The 1988–1990 material remains inherited and provisional, outside the current work. Development after 1990 is also deferred for now, in addition to the existing post-2000 deferral. This changes work scope, not the status of retained later claims.
+The author has selected the event through [[12 People/René Lévesque|René Lévesque]]'s death, provisionally around 1987, as the active development period. The 1988–1990 material remains inherited and provisional, outside the current work. Development after 1990 is also deferred for now, in addition to the existing post-2000 deferral. This changes work scope, not the status of retained later claims.
 
 The author has specified a fictional divergence from the real September 1983 Soviet nuclear false alarm: mishandled warnings and decisions lead to a Soviet first strike and a full two-way US–Soviet nuclear exchange. The exact warning and decision chain is intentionally unspecified. “The event” is the author's current working shorthand, not approved in-universe terminology. Corruption-related undermaintenance of Soviet nuclear ICBMs, with many failures, is an author-selected scenario premise. Its historical and technical plausibility, prevalence and specific failure modes still need research. Québec City and Valcartier's survival from failed intended attacks remains selected, while the failed mechanism and exact number of weapons used remain open.
 

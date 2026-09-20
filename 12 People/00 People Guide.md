@@ -14,6 +14,8 @@
 
 Update an in-setting choice when the author selects it. Avoid creating subfolders until the number of profiles makes them useful.
 
+When historical evidence cannot determine a person's crisis behaviour, keep plausible alternatives and the authorial-veto question in a research note. Record only the selected portrayal, with its uncertainty, in the profile.
+
 ## Current Profiles
 
 - [[12 People/René Lévesque|René Lévesque]]

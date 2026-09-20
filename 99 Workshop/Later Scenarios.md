@@ -136,7 +136,7 @@ Likely remembered events include:
 - the first winter
 - the 1984 famine
 - the border closure
-- Lévesque's death
+- [[12 People/René Lévesque|Lévesque]]'s death
 - creation of the camp system
 - stabilisation
 - reopening of major rail lines

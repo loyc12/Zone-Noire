@@ -6,9 +6,9 @@
 
 **Source: Revised handoff §§5, 6, 26, 27 and §41B, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-This note owns constitutional continuity, political succession and relations among the three major power centres. Lévesque is the central figure of the active early period because he connects prewar politics to emergency rule. His initial leadership and death several years after the war are adopted directions. Around 1987 remains a provisional date. Individual laws, his responses to the crisis and succession mechanisms remain open.
+This note owns constitutional continuity, political succession and relations among the three major power centres. [[12 People/René Lévesque|Lévesque]] is the central figure of the active early period because he connects prewar politics to emergency rule. His initial leadership and death several years after the war are adopted directions. Around 1987 remains a provisional date. Individual laws, his responses to the crisis and succession mechanisms remain open.
 
-[[12 People/René Lévesque|René Lévesque]] owns the concise person profile; this note owns government continuity and political choices.
+His person profile owns the concise individual summary; this note owns government continuity and political choices. [[99 Workshop/Research/1983 Québec Government Baseline|The government source scan]] records the 1983 cabinet and provisional response options.
 
 ## Government Continuity
 

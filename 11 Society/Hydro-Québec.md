@@ -12,7 +12,7 @@ Hydro-Québec becomes a reconstruction institution with substantial political in
 
 Hydro-Québec is one of the central institutions of the setting.
 
-Its early reconstruction role does not establish access to northern generation. The author suspects northern plants or transmission could be lost to the southern system for years. The 1983 network and survivable local capacity need research before Hydro's early power supply or northern reach can be specified.
+Its early reconstruction role does not establish access to northern generation. The author suspects northern plants or transmission could be lost to the southern system for years. [[99 Workshop/Research/1983 Québec Electricity Baseline|The electricity source scan]] offers provisional service tiers and targeted next research; neither the plant data nor those options establish Hydro's early power supply or northern reach.
 
 Rather than simply continuing as an electrical utility, it gradually becomes a quasi-state reconstruction apparatus.
 

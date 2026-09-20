@@ -30,7 +30,7 @@ Status: **PROVISIONAL**
 
 ## La Continuité
 
-Possible historiographical term for the period between the nuclear exchange and René Lévesque's death, during which the emergency government still derives direct legitimacy from the prewar democratic government.
+Possible historiographical term for the period between the nuclear exchange and [[12 People/René Lévesque|René Lévesque]]'s death, during which the emergency government still derives direct legitimacy from the prewar democratic government.
 
 Status: **PROVISIONAL**
 

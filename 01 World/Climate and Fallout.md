@@ -25,7 +25,7 @@ Relevant consequences:
 - reduced crop maturation
 - several consecutive poor harvests
 
-The first postwar summer, especially **1984**, may be remembered as the worst agricultural year. The scale of harvest loss and ecological damage requires research; widespread fauna and flora death is not yet established.
+The first postwar summer in **1984** may be remembered as the worst agricultural year. The scale of harvest loss and ecological damage requires research, as widespread fauna and flora death is not yet established.
 
 Possible term:
 

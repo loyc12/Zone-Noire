@@ -4,7 +4,7 @@
 
 **Status: Active**
 
-A realistic post-nuclear-apocalypse Québec setting beginning in September 1983. Enough of the provincial state survives to maintain organised society, while famine and emergency policy transform it into an authoritarian, materially poorer order. Active development focuses on the event through Lévesque's death, provisionally around 1987. Later material is retained with its status; development after 1990 is deferred for now.
+A realistic post-nuclear-apocalypse Québec setting beginning in September 1983. Enough of the provincial state survives to maintain organised society, while famine and emergency policy transform it into an authoritarian, materially poorer order. Active development focuses on the event through [[12 People/René Lévesque|Lévesque]]'s death, provisionally around 1987. Later material is retained with its status; development after 1990 is deferred for now.
 
 ## Foundation
 
@@ -13,7 +13,7 @@ A realistic post-nuclear-apocalypse Québec setting beginning in September 1983.
 - [[00 Core/03 Integration Decisions|Integration Decisions]] records adoption scope and source provenance
 - [[00 Core/04 Terminology|Terminology]] records proposed names and labels
 
-## World and Early History
+## World and Early Post-Event History
 
 - [[01 World/Early Chronology|Early Chronology]]
 - [[01 World/Nuclear Exchange and Immediate Damage|Nuclear Exchange and Immediate Damage]]
@@ -50,6 +50,7 @@ A realistic post-nuclear-apocalypse Québec setting beginning in September 1983.
 - [[99 Workshop/00 Revision Priorities|Revision Priorities]] owns the development queue
 - [[99 Workshop/Research/Research Topics|Research Topics]] lists bounded 1983–1987 investigations and their inputs
 - [[99 Workshop/Research/Research Method|Research Method]] gives the short procedure for each topic
+- [[99 Workshop/Research/Research Note Template|Research Note Template]] includes the evidence-gap and authorial-veto prompts
 - [[99 Workshop/01 Development Method and Order|Development Method]] supports broader selection and development order
 - [[99 Workshop/Brainstorm Intake/Integration Inventory|Integration Inventory]] records source coverage
 - [[98 Temp/Brainstorm Integration Plan|Integration Plan]] tracks completed and remaining batches

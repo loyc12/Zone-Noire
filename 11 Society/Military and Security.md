@@ -8,7 +8,7 @@
 
 Surviving military and police capacity is progressively integrated under Québec control. Particular components remain dependent on their survival and access to supplies.
 
-The author expects an early reorganisation that simplifies command and draws in personnel from different services, including volunteers and possibly later selected conscripts. Its timing, legal identity, recruitment and effectiveness remain to be assessed against actual 1983 capacity and social responses.
+The author expects an early reorganisation that simplifies command and draws in personnel from different services, including volunteers and possibly later selected conscripts. Its timing, legal identity, recruitment and effectiveness remain open. [[99 Workshop/Research/1983 Québec Security Baseline|The security source scan]] offers provisional coordination sequences and identifies the remaining capacity questions. Its options have not been selected as a command structure.
 
 ## Military and Security Reorganisation
 

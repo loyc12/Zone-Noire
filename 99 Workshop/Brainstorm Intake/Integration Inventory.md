@@ -14,7 +14,7 @@ The revised handoff has been imported into the owners below. [[00 Core/03 Integr
 | 3. The Nuclear Exchange | [[01 World/Nuclear Exchange and Immediate Damage\|Nuclear Exchange and Immediate Damage]] | Imported with local status and open details preserved |
 | 4. Québec City's Survival | [[01 World/Québec City and Valcartier\|Québec City and Valcartier]] | Imported with local status and open details preserved |
 | 5. Government Continuity | [[11 Society/Government and Emergency Rule\|Government and Emergency Rule]] | Imported with local status and open details preserved |
-| 6. René Lévesque and Political Legitimacy | [[11 Society/Government and Emergency Rule\|Government and Emergency Rule]] | Imported with local status and open details preserved |
+| 6. [[12 People/René Lévesque\|René Lévesque]] and Political Legitimacy | [[11 Society/Government and Emergency Rule\|Government and Emergency Rule]] | Imported with local status and open details preserved |
 | 7. Hydro-Québec as a Reconstruction Institution | [[11 Society/Hydro-Québec\|Hydro-Québec]] | Imported with local status and open details preserved |
 | 8. Electrical Grid Collapse and Recovery | [[10 Technologies and Infrastructure/Electricity and Communications\|Electricity and Communications]] | Imported with local status and open details preserved |
 | 9. Collapse of Healthcare and Sanitation | [[10 Technologies and Infrastructure/Health, Water and Sanitation\|Health, Water and Sanitation]] | Imported with local status and open details preserved |

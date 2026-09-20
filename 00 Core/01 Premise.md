@@ -22,7 +22,7 @@ Hydro-Québec becomes a central reconstruction institution. Civil administration
 
 **Status: Current direction**
 
-- René Lévesque leads the initial emergency response, retaining a link to the prewar democratic order
+- [[12 People/René Lévesque|René Lévesque]] leads the initial emergency response, retaining a link to the prewar democratic order
 - His death several years later symbolises the loss of effective prewar democratic continuity, with the date and succession arrangements still open
 - Severe temporary climatic disruption, broken production and distribution, and medical and sanitation collapse produce famine and mass mortality
 - Internal displacement and arrivals from Ontario and the northeastern United States lead to militarised borders and increasingly coercive labour institutions

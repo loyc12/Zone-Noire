@@ -6,7 +6,7 @@
 
 **Source: Revised handoff §§2, 29, 40, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-The broad sequence is immediate survival, famine and coercive emergency government, then uneven stabilisation and reconstruction. September 1983 is selected. The precise exchange date and all subsequent dates below are provisional placements imported from the handoff, not separately approved events or deadlines. The active period ends with Lévesque's death, provisionally around 1987. Later entries are retained source projections outside current development.
+The broad sequence is immediate survival, famine and coercive emergency government, then uneven stabilisation and reconstruction. September 1983 is selected. The precise exchange date and all subsequent dates below are provisional placements imported from the handoff, not separately approved events or deadlines. The active period ends with [[12 People/René Lévesque|Lévesque]]'s death, provisionally around 1987. Later entries are retained source projections outside current development.
 
 **Scope: Active development from the event through Lévesque's death; later source chronology retained for provenance**
 

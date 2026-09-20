@@ -6,7 +6,7 @@
 
 **Source: Revised handoff §§12 and §41F, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-Food production contracts sharply under climate disruption, lost inputs and broken distribution. The crop mix and consolidation policies below remain proposals within that adopted crisis. [[11 Society/Economy and Food Allocation|Economy and Food Allocation]] owns collection and rationing policy.
+Food production contracts sharply under climate disruption, lost inputs and broken distribution. The crop mix and consolidation policies below remain proposals within that adopted crisis. [[11 Society/Economy and Food Allocation|Economy and Food Allocation]] owns collection and rationing policy. [[99 Workshop/Research/1981 Québec Agriculture Baseline|The agriculture source scan]] records pre-event farm scale and an unselected rounded proxy.
 
 ## Agriculture
 

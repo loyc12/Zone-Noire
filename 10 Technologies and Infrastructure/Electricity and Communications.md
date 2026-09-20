@@ -27,7 +27,7 @@ EMP may aggravate failures, but the larger collapse comes from:
 
 The selected scenario response is grid **fragmentation and islanding**.
 
-The author suspects major northern hydroelectric plants may be unusable to the southern system for much of the first decade because of distance and damaged links. This is an open infrastructure question, not a selected outage duration. Research must distinguish generating plants that physically operate from electricity that can be transmitted, controlled and used in the south.
+The author suspects major northern hydroelectric plants may be unusable to the southern system for much of the first decade because of distance and damaged links. This is an open infrastructure question, not a selected outage duration. [[99 Workshop/Research/1983 Québec Electricity Baseline|The electricity research note]] separates plants that physically operate from electricity deliverable to the south and offers provisional service models for authorial review.
 
 Hydro prioritises:
 

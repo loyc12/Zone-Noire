@@ -12,6 +12,8 @@
 
 Physical, ecological, technological and social consequences must support the setting's realistic premise. The selected disaster scenario is fiction. Research evidence, scenario assumptions, inferred consequences and selected fictional facts remain distinguishable. Importing the handoff does not independently verify its historical or technical claims.
 
+Realism here means avoiding clear conflicts with known history and modelable constraints as best we can, rather than reconstructing every detail with academic precision. Plausible approximations and authorial judgements may settle questions where direct evidence is sparse, provided their uncertainty remains visible.
+
 ## Uneven Destruction and Survival
 
 Destruction and radioactive contamination vary by location. Some places are annihilated, others contaminated, and others physically intact but deprived of supplies, markets and services. Surviving buildings or generating stations do not instantaneously restablish a functioning social or industrial system.
