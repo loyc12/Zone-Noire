@@ -64,7 +64,7 @@ These baseline topics can begin alongside the physical research. Their fictional
 
 ### 9. Lévesque and Québec Government
 
-Establish the actual 1983 cabinet, constitutional and emergency powers, referendum politics, Lévesque's political record and administrative capacity. Assess plausible early claims to authority without choosing his fictional decisions or a successor. Owner: [[11 Society/Government and Emergency Rule|Government and Emergency Rule]]
+Establish the actual 1983 cabinet, constitutional and emergency powers, referendum politics, Lévesque's political record and administrative capacity. Assess plausible early claims to authority without choosing his fictional decisions or a successor. Owners: [[11 Society/Government and Emergency Rule|Government and Emergency Rule]] for the institution and [[12 People/René Lévesque|René Lévesque]] for the person summary
 
 ### 10. Military and Police
 

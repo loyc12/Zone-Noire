@@ -24,6 +24,7 @@ The following locations currently exist:
 | `01 World` | Geography, environments, history, places, and local infrastructure conditions. |
 | `10 Technologies and Infrastructure` | Recurring capabilities, dependencies, maintenance, and constraints. |
 | `11 Society` | Communities, institutions, governance, economy, culture, and ordinary life. |
+| `12 People` | Concise profiles of historical people and fictional figures, separating documented background from in-setting portrayal. |
 | `97 Assets/Source Archive` | Immutable source snapshots for provenance, superseded by current topical references. |
 | `98 Temp` | Temporary planning material, including the integration progress plan. |
 | `.obsidian` | Existing editor settings, themes, and plugins. Preserve their native format and state. |
@@ -33,11 +34,11 @@ The following expansion map remains available when content needs it:
 
 | Future location | Responsibility and boundary |
 | --- | --- |
-| `80 Narrative` | Author-facing characters, viewpoints, relationships, arcs, and scene planning. |
+| `80 Narrative` | Author-facing story-specific viewpoints, relationships, arcs, and scene planning. |
 | `90 Corpus` | The author's creative prose and drafts, protected by the corpus boundary. |
 | `97 Assets` | Supporting attachments, such as images and PDFs. Keep important reference prose in a topical note. |
 
-Keep fixed `00 Core` and `01 World` first, followed by the project-specific domains in slots `10` and `11`. Add further domains before `80 Narrative` only when useful. Creating attachment or temporary folders does not authorise changes to editor settings.
+Keep fixed `00 Core` and `01 World` first, followed by the project-specific domains in slots `10`, `11`, and `12`. Add further domains before `80 Narrative` only when useful. Creating attachment or temporary folders does not authorise changes to editor settings.
 
 Folders identify responsibility, not approval. Use descriptive filenames and deliberate reading order. Add subfolders when actual material benefits from grouping. Do not invent content to populate a structure. Separate recurring mechanisms from their applications when each warrants its own owner.
 
@@ -48,6 +49,8 @@ One document owns each detailed answer. Other notes provide enough context to be
 Keep detailed setting questions with the topic. The revision queue owns work order and deferral. [[99 Workshop/Research/Research Topics|Research Topics]] lists bounded investigations and their inputs. Research and calculation notes own supporting analysis, while setting references record selected results and their limits. Split by independent purpose or retrieval, not length alone.
 
 [[00 Core/01 Premise|Premise]] owns the selected foundation and open narrative boundaries. [[00 Core/02 Axioms|Axioms]] owns design constraints. Topical notes own detailed setting context and their unresolved questions. [[00 Core/03 Integration Decisions|Integration Decisions]] records the scope of the handoff adoption.
+
+[[12 People/00 People Guide|People Guide]] owns the compact person-profile format. A profile owns a person's summary, not the research evidence, institutional mechanics, or story-specific arc. For real people, distinguish documented history from in-setting choices. For inspired or fictional people, keep source material and author-selected facts distinct from invented proposals.
 
 ## Status and Approval
 

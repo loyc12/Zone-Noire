@@ -39,6 +39,11 @@ A realistic post-nuclear-apocalypse Québec setting beginning in September 1983.
 - [[11 Society/External Relations and Trade|External Relations and Trade]]
 - [[11 Society/Everyday Life and Cultural Change|Everyday Life and Cultural Change]]
 
+## People
+
+- [[12 People/00 People Guide|People Guide]] explains the profile format and lists profiles
+- [[12 People/René Lévesque|René Lévesque]] summarises the historical person and his open in-setting portrayal
+
 ## Working Tools and Deferred Material
 
 - [[99 Workshop/Later Scenarios|Later Scenarios]] retains contingent post-2000 ideas under the broader later-development deferral

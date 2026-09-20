@@ -8,6 +8,8 @@
 
 This note owns constitutional continuity, political succession and relations among the three major power centres. Lévesque is the central figure of the active early period because he connects prewar politics to emergency rule. His initial leadership and death several years after the war are adopted directions. Around 1987 remains a provisional date. Individual laws, his responses to the crisis and succession mechanisms remain open.
 
+[[12 People/René Lévesque|René Lévesque]] owns the concise person profile; this note owns government continuity and political choices.
+
 ## Government Continuity
 
 René Lévesque remains premier at the time of the war.
