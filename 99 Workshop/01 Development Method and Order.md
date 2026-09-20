@@ -4,15 +4,11 @@
 
 **Status: Active**
 
-This method supports the resumed early-setting work within [[00 Core/01 Premise|Premise]]. It establishes no additional fictional facts and does not lift the post-2000 deferral.
+This guide supports setting development within [[00 Core/01 Premise|Premise]]. Current work focuses on the September 1983 event through Lévesque's death, provisionally around 1987. It establishes no additional fictional facts and does not lift the deferral of development after 1990. Use [[99 Workshop/Research/Research Topics|Research Topics]] to choose a question and [[99 Workshop/Research/Research Method|Research Method]] to investigate and record it.
 
-## Working Loop
+## Authorial Selection
 
-1. State the question, its owner, and the scope authorised for the current task
-2. Identify existing constraints, open dependencies, and alternatives. Separate real-world evidence from scenario assumptions
-3. Research the question at the geographic and temporal scale it requires. Record sources and limitations. Leave unsupported outcomes open
-4. Trace relevant consequences under explicit assumptions. Distinguish estimates and inferences from observed facts and author-selected fiction
-5. Present consequential choices for authorial selection. Record authorised results in their topical owners with their actual status and update dependent notes
+Research bounds plausible outcomes. Consequential fictional choices go to the author. Record authorised results in their topical owners and update affected dependencies, while keeping supporting evidence in the topic's research note.
 
 ## Knowledge Layers
 

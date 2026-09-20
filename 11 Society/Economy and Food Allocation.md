@@ -6,7 +6,7 @@
 
 **Source: Revised handoff §§10, 24, 25, 39 and §41J, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-This note owns requisitions, rationing, exchange and allocation policy. [[10 Technologies and Infrastructure/Food Production|Food Production]] owns physical food production. The claim that subsequent food collapse kills more people than the exchange is a provisional scenario assumption, not an established mortality calculation.
+This note owns requisitions, rationing, exchange and allocation policy. [[10 Technologies and Infrastructure/Food Production|Food Production]] owns physical food production. The claim that subsequent food collapse kills more people than the exchange is a provisional scenario assumption, not an established mortality calculation. The author expects peak post-event mortality around 1984–1985, without a selected count or minimum population.
 
 ## Food Crisis
 
@@ -105,6 +105,8 @@ Possibilities include:
 - later independent Québec currency
 
 Currency may become secondary during peak famine.
+
+The author's current working sequence is rapid loss of purchasing power for Canadian and especially American currency, a rationing system combining basic-needs entitlements with labour credits, later standardisation, and eventually a Québec currency when material conditions permit. This is a research and design direction, not a selected monetary timeline. The immediate system, its eligibility rules and its interaction with cash remain open.
 
 Food, fuel, medicine, and work entitlements may matter more than cash.
 

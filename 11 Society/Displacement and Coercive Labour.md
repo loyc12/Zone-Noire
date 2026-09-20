@@ -6,7 +6,7 @@
 
 **Source: Revised handoff §§14, 15, 16, 17, 18 and §41E, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-Internal displacement, external refugee arrivals, border militarisation and the emergence of forced labour are adopted early-setting directions. Specific admission rules, institutional forms and names remain proposals. Scarcity helps explain policy choices without proving that exclusion or coercion is necessary.
+Internal displacement, external refugee arrivals, border militarisation and the emergence of forced labour are adopted early-setting directions. The author directs the system to begin with formal distinctions among Québec residents, other Canadians and non-Canadians, rather than an openly linguistic or racial rule. The legal basis and labels for those categories remain open. Language fluency and, to a lesser degree, race can become proxies for them. Specific admission rules, institutional forms, timing and names remain proposals. Scarcity helps explain policy choices without proving that exclusion or coercion is necessary.
 
 ## Refugee Crisis
 
@@ -53,7 +53,7 @@ This is one of the main drivers of postwar authoritarianism.
 
 **Status: Provisional**
 
-Admission is progressively based on perceived social utility and humanitarian priority.
+Admission may also be based on perceived social utility and humanitarian priority. The priority given to these criteria relative to residence or citizenship remains open.
 
 Possible priority categories:
 
@@ -140,7 +140,7 @@ Its brutality emerges through the logic of extreme scarcity and bureaucratic coe
 
 The camp and refugee system eventually gains a strong anglophone dimension.
 
-This should arise structurally rather than from an immediately explicit anti-anglophone policy.
+This begins structurally rather than as an immediately explicit anti-anglophone policy. The author envisages harsher labour and penal treatment of non-francophones, who may eventually become a permanent underclass or be deemed undesirable. The timing, mechanisms and reach of that outcome remain open, especially beyond the active early period.
 
 Reasons include:
 
@@ -159,6 +159,8 @@ Over time, anglophones become disproportionately represented among:
 - industrial work units
 
 This can evolve into deliberate discrimination later.
+
+Survivors may come to blame Americans for the war and extend that blame to anglophones more broadly. The prevalence of this belief, official encouragement and effects on policy remain research and development questions.
 
 Possible political justifications may involve:
 

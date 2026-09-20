@@ -8,6 +8,8 @@
 
 Surviving military and police capacity is progressively integrated under Québec control. Particular components remain dependent on their survival and access to supplies.
 
+The author expects an early reorganisation that simplifies command and draws in personnel from different services, including volunteers and possibly later selected conscripts. Its timing, legal identity, recruitment and effectiveness remain to be assessed against actual 1983 capacity and social responses.
+
 ## Military and Security Reorganisation
 
 Québec gradually absorbs surviving federal military and police capacity.

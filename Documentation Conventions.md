@@ -45,7 +45,7 @@ Folders identify responsibility, not approval. Use descriptive filenames and del
 
 One document owns each detailed answer. Other notes provide enough context to be readable and link to that owner. Keep specialised definitions with their subject and link them from a glossary if one becomes useful.
 
-Keep detailed open questions with the topic. The revision queue owns work order and deferral. Research and calculation notes own supporting analysis, while setting references record selected results and their limits. Split by independent purpose or retrieval, not length alone.
+Keep detailed setting questions with the topic. The revision queue owns work order and deferral. [[99 Workshop/Research/Research Topics|Research Topics]] lists bounded investigations and their inputs. Research and calculation notes own supporting analysis, while setting references record selected results and their limits. Split by independent purpose or retrieval, not length alone.
 
 [[00 Core/01 Premise|Premise]] owns the selected foundation and open narrative boundaries. [[00 Core/02 Axioms|Axioms]] owns design constraints. Topical notes own detailed setting context and their unresolved questions. [[00 Core/03 Integration Decisions|Integration Decisions]] records the scope of the handoff adoption.
 

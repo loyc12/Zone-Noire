@@ -6,7 +6,7 @@
 
 **Source: Revised handoff §§11, 13, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-Severe but temporary climatic disruption and uneven fallout are the selected scenario direction. Temperature, deposition and duration values are not established by this import. The technical statements below are inherited working context, not a completed effects study.
+Severe but temporary climatic disruption and uneven fallout are the selected scenario direction. The author expects southern districts near major strikes to face heavy fallout while much of central Québec remains habitable, but the actual corridors depend on strike locations, winds and deposition. Temperature, deposition and duration values are not established. The technical statements below are inherited working context, not a completed effects study.
 
 ## Nuclear Winter / Climatic Disruption
 
@@ -25,7 +25,7 @@ Relevant consequences:
 - reduced crop maturation
 - several consecutive poor harvests
 
-The first postwar summer, especially **1984**, may be remembered as the worst agricultural year.
+The first postwar summer, especially **1984**, may be remembered as the worst agricultural year. The scale of harvest loss and ecological damage requires research; widespread fauna and flora death is not yet established.
 
 Possible term:
 
@@ -71,7 +71,7 @@ Possible provisional classification:
 
 These names are PROVISIONAL.
 
-Future documentation should establish:
+Future research should assess:
 
 - strike map
 - prevailing winds

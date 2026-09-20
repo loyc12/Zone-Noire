@@ -6,7 +6,7 @@
 
 **Source: Revised handoff §§5, 6, 26, 27 and §41B, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-This note owns constitutional continuity, political succession and relations among the three major power centres. Lévesque's initial leadership, death several years after the war and its symbolic role in the loss of prewar democratic continuity are adopted directions. Around 1987 remains a provisional date. Individual laws and succession mechanisms remain open.
+This note owns constitutional continuity, political succession and relations among the three major power centres. Lévesque is the central figure of the active early period because he connects prewar politics to emergency rule. His initial leadership and death several years after the war are adopted directions. Around 1987 remains a provisional date. Individual laws, his responses to the crisis and succession mechanisms remain open.
 
 ## Government Continuity
 
@@ -37,7 +37,7 @@ The Québec government progressively assumes control over:
 - border control
 - economic allocation
 
-The transition to de facto sovereignty should be gradual and administrative rather than immediately ideological.
+The author expects Québec's government to assume effective authority fairly quickly where federal control has collapsed. The pace, legal claims and territorial reach need research into actual 1983 institutions, Lévesque's politics and the prewar referendum question. The transition to de facto sovereignty remains administrative rather than immediately ideological.
 
 This creates room for legal ambiguity for several years.
 
@@ -54,11 +54,11 @@ During the first years:
 - old ministries and parliamentary institutions formally continue
 - authoritarian measures remain framed as temporary emergency necessities
 
-Lévesque dies several years after the war, likely around **1987**, close to the timing of his real-world death.
+Lévesque dies several years after the war, provisionally around **1987**. This is the endpoint of current development. Research into his character, political record and the 1983 political climate should inform his plausible choices without predetermining them.
 
 His death functions as a major symbolic turning point.
 
-After his death:
+The inherited scenario proposes that after his death:
 
 - elections are postponed indefinitely
 - succession occurs through emergency institutional mechanisms
@@ -106,6 +106,8 @@ Each policy may initially have a plausible emergency justification.
 Collectively, they produce an authoritarian command society.
 
 The regime's moral ambiguity is important.
+
+The author expects immediate survival needs and fear of anarchy to constrain organised opposition at first. The timing and form of resistance remain open, pending research into disaster responses and Québec's political culture.
 
 It should be possible to argue both:
 
@@ -187,6 +189,8 @@ Their relationships should be negotiated rather than reduced to simple factional
 - civilian opposition
 - democratisation
 - truth and reconciliation processes
+- Lévesque's political record, referendum position and plausible emergency choices
+- early collective action and resistance under crisis conditions
 
 Later democratisation and reckoning remain in [[99 Workshop/Later Scenarios|Later Scenarios]].
 

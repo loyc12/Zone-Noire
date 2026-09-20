@@ -56,6 +56,8 @@ Likely crises include:
 
 Public-health officials, water engineers, chemists, and sanitation specialists become strategically important.
 
+The author expects infant mortality to be a substantial part of the 1984–1985 crisis. Its magnitude and causes have not been modelled. Distinguish deaths from disease, malnutrition, failed medical care and exposure before deriving a demographic estimate.
+
 ## Open Development Questions
 
 **Status: Exploring**
@@ -66,6 +68,7 @@ Public-health officials, water engineers, chemists, and sanitation specialists b
 - sanitation reconstruction
 - maternal health
 - medical triage
+- infant mortality by cause and period
 
 ## Related Owners
 

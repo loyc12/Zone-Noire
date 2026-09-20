@@ -8,7 +8,7 @@
 
 **Approval: The author requested that the setting and axioms be brought into line with the handoff. See [[00 Core/03 Integration Decisions|Integration Decisions]]**
 
-Zone Noire explores a realistic post-nuclear-apocalypse Québec. In September 1983, the Soviet false-alarm incident leads into a large-scale NATO–Warsaw Pact nuclear exchange. The precise escalation chain remains open.
+Zone Noire explores a realistic post-nuclear-apocalypse Québec. In September 1983, a mishandling of the Soviet nuclear false alarm leads to a Soviet first strike and a full two-way US–Soviet nuclear exchange. The exact chain of erroneous warnings and decisions is intentionally unspecified. The author currently calls this “the event”; no in-universe term has been approved.
 
 Montréal is heavily struck and ceases to function as a modern city. Ottawa is destroyed or otherwise unable to function as Canada's national government. Southern Ontario and the northeastern United States are heavily devastated. Canada and the United States lose coherent central control during the immediate crisis, without implying the disappearance of every surviving institution or community therein.
 
@@ -34,12 +34,12 @@ Detailed institutional choices and dates are owned by the topical references, be
 
 ## Focus and Tone
 
-The working focus is the early aftermath, roughly the first 10–20 years. The current import concentrates on 1983–1999. Material from 2000 onward remains provisional and explicitly deferred, including the overlapping end of the source's 1995–2000 range.
+The active development focus runs from the September 1983 event through René Lévesque's death, provisionally around 1987. This period remains closest to the pre-event society and is the priority for setting research and short-story backgrounds. The inherited 1988–1990 material remains provisional and outside current development. Development after 1990 is deferred for now; post-2000 scenarios remain explicitly deferred. Retained later material does not establish a selected future.
 
 The tone is grounded alternate history with institutional and logistical realism, political and moral ambiguity, uneven technological regression and reconstruction, and specifically Québécois institutions and conditions. Cold War anti-nuclear works such as *Threads*, *The Day After* and *Testament* are reference points for the intended severity and consequences.
 
 ## Open Boundaries
 
-Exact targets, local damage, population losses, refugee numbers, institutional names, succession, constitutional structure, northern political agreements and neighbouring successor states remain open. The title does not yet designate an in-setting place or hazard classification. Protagonists, narrative form, language and voice also remain undecided.
+Exact targets, local damage, population losses, refugee numbers, institutional names, succession, constitutional structure, northern political agreements and neighbouring successor states remain open. The title does not yet designate an in-setting place or hazard classification. Individual stories, protagonists, narrative form, language and voice remain undecided.
 
 [[00 Core/02 Axioms|Axioms]] owns durable design constraints. [[99 Workshop/00 Revision Priorities|Revision Priorities]] identifies the next questions without supplying their answers.

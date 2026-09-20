@@ -6,7 +6,7 @@
 
 **Source: Revised handoff §43, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-All terms below remain proposals. Importing the stable setting has not approved labels, institutional titles, period names or the in-setting meaning of the project title. Definitions follow the author-corrected source. Post-2000 terminology and periodisation are explicitly deferred.
+All terms below remain proposals. Importing the stable setting has not approved labels, institutional titles, period names or the in-setting meaning of the project title. Definitions follow the author-corrected source. The author currently says “the event” as a working label for the exchange, not as approved in-universe terminology. Development of terms for periods after 1990 is deferred for now.
 
 **IMPORTANT:** This entire glossary is subject to manual review. None of these labels should automatically be treated as canon.
 
@@ -19,6 +19,12 @@ Status: **PROVISIONAL**
 ## Le Miracle de Québec
 
 Popular or retrospective term for Québec City's survival after the intended Soviet strike fails.
+
+Status: **PROVISIONAL**
+
+## L'Exode de Montréal
+
+Possible in-universe term for the rapid departure of survivors from the devastated city. Proposed after the handoff import; neither the name nor a precise exodus chronology is selected.
 
 Status: **PROVISIONAL**
 

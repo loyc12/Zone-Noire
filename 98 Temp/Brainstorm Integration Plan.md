@@ -4,9 +4,9 @@
 
 **Status: Active**
 
-**Scope: Completed intake and early-setting import, with remaining follow-up work**
+**Scope: Completed intake and early-setting import, with an active 1983–1987 focus and later research pass pending**
 
-This plan tracks work. [[00 Core/01 Premise|Premise]], [[00 Core/02 Axioms|Axioms]] and topical owners now contain the setting. [[00 Core/03 Integration Decisions|Integration Decisions]] records the author's approval to align the stable early setting with the revised handoff. New names, open mechanisms and post-2000 projections have not been silently selected.
+This plan tracks work. [[00 Core/01 Premise|Premise]], [[00 Core/02 Axioms|Axioms]] and topical owners now contain the setting. [[00 Core/03 Integration Decisions|Integration Decisions]] records the handoff adoption and the later choice to focus on the event through Lévesque's death. New names, open mechanisms and later projections have not been silently selected.
 
 ## Progress by Batch
 
@@ -26,21 +26,23 @@ This plan tracks work. [[00 Core/01 Premise|Premise]], [[00 Core/02 Axioms|Axiom
 | 3. Physical scenario and early chronology | Complete | [[01 World/Early Chronology\|Chronology]] links the exchange, climate, fallout and place owners |
 | 4. Institutions, society and material systems | Complete | Substantive owners in `11 Society` and `10 Technologies and Infrastructure`, with expansion questions distributed locally |
 | 5. Later scenarios and terminology | Retention complete, development deferred | [[99 Workshop/Later Scenarios\|Later Scenarios]] preserves the projected future, [[00 Core/04 Terminology\|Terminology]] preserves proposed labels |
-| 6. Dependencies and research queue | Queue prepared, investigations pending | [[99 Workshop/00 Revision Priorities\|Revision Priorities]] orders the open work, topic notes retain detailed questions |
+| 6. Dependencies and research queue | Method and topics documented, investigations pending | [[99 Workshop/00 Revision Priorities\|Revision Priorities]] orders the work, [[99 Workshop/Research/Research Topics\|Research Topics]] lists investigations, and topic notes retain setting choices |
 | 7. Connect repository guidance and navigation | Complete | [[Start Here]] routes to actual owners, stale blanket deferrals and old ownership statements replaced |
 | 8. Validate integration | Complete | Source preservation, coverage, links, list formatting, approval boundaries and retired intake references checked |
 
 ## Remaining Work
 
-- Bound the exchange and local survival assumptions before researching detailed effects
+- Follow the author's active scope of the event through Lévesque's death, provisionally around 1987; retain 1988–1990 proposals outside current development and defer development after 1990
+- Use the documented [[99 Workshop/Research/Research Method|Research Method]] and [[99 Workshop/Research/Research Topics|Research Topics]] for future topic-by-topic investigations
+- Bound exchange targets, missile failures and local survival assumptions before researching detailed effects
 - Reconcile climate, agriculture and famine timing without changing dates solely to fit the political arc
-- Clarify the demographic low-point wording and the proposed date of Lévesque's death
+- Test the expected 1984–1985 mortality peak; no minimum population or death toll has been selected
 - Research the 1983 institutional and infrastructure baseline, including personnel, equipment and northern dependencies
 - Review proposed terminology, source spellings and singular/plural variants without treating the glossary as selected nomenclature
 - Refine scenario dependencies when later work resumes, especially the requirements for industrial recovery, democratisation and trade
-- Continue developing regional and ordinary-life detail only within the author's chosen scope
+- Continue developing regional and ordinary-life detail only within the author's chosen 1983–1987 scope
 
-These items are future development, not unfinished filing of stable early-setting information. Research was not undertaken as part of this import. The planned three later-scenario files remain one substantive deferred note for now, with links to early dependencies. Split it only when further work makes separate owners useful.
+These items are future development, not unfinished filing of stable early-setting information. Research was not undertaken as part of this import or the subsequent scope update. The planned three later-scenario files remain one substantive deferred note for now, with links to early dependencies. Split it only when further work makes separate owners useful.
 
 ## Cleanup and Preservation
 

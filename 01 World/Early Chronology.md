@@ -6,18 +6,18 @@
 
 **Source: Revised handoff §§2, 29, 40, imported under [[00 Core/03 Integration Decisions|the batch-two decision]]**
 
-The broad sequence is immediate survival, famine and coercive emergency government, then uneven stabilisation and reconstruction. September 1983 is selected. The precise exchange date and all subsequent dates below are provisional placements imported from the handoff, not separately approved events or deadlines.
+The broad sequence is immediate survival, famine and coercive emergency government, then uneven stabilisation and reconstruction. September 1983 is selected. The precise exchange date and all subsequent dates below are provisional placements imported from the handoff, not separately approved events or deadlines. The active period ends with Lévesque's death, provisionally around 1987. Later entries are retained source projections outside current development.
 
-**Scope: 1983–1999, with the source's overlapping 1995–2000 range retained**
+**Scope: Active development from the event through Lévesque's death; later source chronology retained for provenance**
 
 **Dating: Provisional except the selected month and year of the exchange**
 
-This note owns timing and sequence. Detailed causes and institutions belong in the linked topical owners. Inclusion here does not approve a name, mechanism or numerical claim that remains open there. Post-2000 events belong in [[99 Workshop/Later Scenarios|Later Scenarios]].
+This note owns timing and sequence. Detailed causes and institutions belong in the linked topical owners. Inclusion here does not approve a name, mechanism or numerical claim that remains open there. The 1988–1990 material is outside current development, development after 1990 is deferred, and post-2000 events belong in [[99 Workshop/Later Scenarios|Later Scenarios]].
 
-## 26 September 1983 — Nuclear Exchange
+## 26 September 1983 — Proposed Exchange Date
 
-- Soviet false alarm escalates
-- NATO–Warsaw Pact nuclear exchange begins
+- Soviet false alarm is mishandled through an unspecified chain of warnings and decisions
+- Soviet first strike leads to a full two-way US–Soviet nuclear exchange
 - Montréal and Ottawa are struck
 - Major North American infrastructure collapses
 - Québec City survives a failed intended strike
@@ -74,7 +74,7 @@ This note owns timing and sequence. Detailed causes and institutions belong in t
 
 ## Winter 1984–1985
 
-- demographic low point
+- expected period of peak post-event mortality and extreme hardship, subject to research; no minimum population or death toll is established
 - black markets expand
 - food theft becomes endemic
 - military tribunals grow
@@ -90,10 +90,11 @@ This note owns timing and sequence. Detailed causes and institutions belong in t
 ## ~1987
 
 - René Lévesque dies
-- national mourning
-- elections postponed indefinitely
-- emergency succession takes place
-- authoritarian emergency state consolidates
+- possible national mourning
+- proposed postponement of elections
+- proposed emergency succession and consolidation, with the mechanisms still open
+
+**Development: The following inherited entries are outside the active early-era scope. The 1988–1990 range remains provisional; development after 1990 is deferred for now.**
 
 ## 1988–1990
 
@@ -122,10 +123,10 @@ This note owns timing and sequence. Detailed causes and institutions belong in t
 
 ## Timing Questions
 
-- Clarify whether the winter 1984–1985 “demographic low point” means peak mortality, worst living conditions or minimum population
+- Test the expected 1984–1985 mortality peak and severe living conditions against food, health and demographic models; do not infer a minimum population
 - Reconcile climatic recovery with the longer food and infrastructure crisis in [[01 World/Climate and Fallout|Climate and Fallout]]
-- Retain around 1987 as a proposed date for Lévesque's death, with succession arrangements open in [[11 Society/Government and Emergency Rule|Government and Emergency Rule]]
-- Treat 1995–2000 as an inherited overlapping range, with the year 2000 still deferred rather than a selected transition date
+- Retain around 1987 as a proposed date for Lévesque's death, with his plausible decisions and succession arrangements open in [[11 Society/Government and Emergency Rule|Government and Emergency Rule]]
+- Treat 1988–2000 as inherited projections rather than an active development schedule; the year 2000 is not a selected transition date
 
 ## Event Owners
 
