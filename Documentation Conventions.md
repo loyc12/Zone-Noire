@@ -20,13 +20,13 @@ The following locations currently exist:
 | --- | --- |
 | Root | Entry page, short agent instructions, and documentation conventions. |
 | `00 Core` | Premise and durable design constraints. Add story intent, terminology, or inspirations only when there is material to record. |
-| `99 Workshop` | Development queue, method, deferred later scenarios, and the compact integration inventory. Stable setting detail belongs in topical owners. |
+| `99 Workshop` | Current work context, method, deferred later scenarios, and the compact integration inventory. Stable setting detail belongs in topical owners. |
 | `01 World` | Geography, environments, history, places, and local infrastructure conditions. |
 | `10 Technologies and Infrastructure` | Recurring capabilities, dependencies, maintenance, and constraints. |
 | `11 Society` | Communities, institutions, governance, economy, culture, and ordinary life. |
 | `12 People` | Concise profiles of historical people and fictional figures, separating documented background from in-setting portrayal. |
 | `97 Assets/Source Archive` | Immutable source snapshots for provenance, superseded by current topical references. |
-| `98 Temp` | Temporary planning material, including the integration progress plan. |
+| `98 Temp` | Temporary planning material and the historical integration plan retained at the author's request. Current work context belongs in Workshop. |
 | `.obsidian` | Existing editor settings, themes, and plugins. Preserve their native format and state. |
 | `.agents` and `.codex` | Existing agent configuration locations. Preserve unless changes are requested. |
 
@@ -46,7 +46,7 @@ Folders identify responsibility, not approval. Use descriptive filenames and del
 
 One document owns each detailed answer. Other notes provide enough context to be readable and link to that owner. Keep specialised definitions with their subject and link them from a glossary if one becomes useful.
 
-Keep detailed setting questions with the topic. The revision queue owns work order and deferral. [[99 Workshop/Research/Research Topics|Research Topics]] lists bounded investigations and their inputs. Research and calculation notes own supporting analysis, while setting references record selected results and their limits. Split by independent purpose or retrieval, not length alone.
+Keep detailed setting questions with the topic. Current Work Context owns work order, continuation plans, loose ends, and explicit deferrals. [[99 Workshop/Research/Research Topics|Research Topics]] lists bounded investigations and their inputs. Research and calculation notes own supporting analysis, while setting references record selected results and their limits. Split by independent purpose or retrieval, not length alone.
 
 [[00 Core/01 Premise|Premise]] owns the selected foundation and open narrative boundaries. [[00 Core/02 Axioms|Axioms]] owns design constraints. Topical notes own detailed setting context and their unresolved questions. [[00 Core/03 Integration Decisions|Integration Decisions]] records the scope of the handoff adoption.
 
@@ -105,6 +105,22 @@ Update links, heading targets, navigation, and ownership statements together wit
 Before handoff, apply the validation scope below and verify affected approval, provenance, and deferral boundaries. Check new files as well as existing edits. Report checks and limitations accurately. `git diff --check` checks whitespace only. File comparisons can verify changes without using Git.
 
 Local guidance must contain its required rules and dependencies without relying on a parent folder, sibling project, absolute workspace path, or external symlink. Check this under the portability conditions below.
+
+## Work Context Maintenance
+
+[Current Work Context](99%20Workshop/00%20Current%20Work%20Context.md) owns work order, next steps and their rationale, short stopping points, loose ends, parked threads, and explicit deferrals. Detailed questions, evidence, calculations, and selected answers remain in their topical notes. Save substantial unfinished reasoning in an existing working note, or a dedicated Workshop note when it needs its own home, and link it from Current Work Context.
+
+1. When starting or resuming project work, read the context page and then only the notes relevant to the chosen thread. The user's current request takes precedence over recorded priorities
+2. During authorised edits, save useful findings and consequential reasoning at meaningful milestones, especially before switching topics. Record rejected approaches or dead ends only when they would prevent worthwhile repeated work
+3. Before pausing, switching threads, or handing off, update only the affected thread: next steps and why, unresolved loose ends, and enough progress context and links to resume. Preserve an interrupted thread's plan when taking a tangent
+4. When work is resolved, retain useful results, decision rationale, and actual approval state in their owners. Remove the resolved entry or replace it with a brief result link. Carry remaining loose ends forward
+5. For discussion-only or no-edit work, offer a short proposed checkpoint in the response if useful. Do not write files against that boundary
+
+Use **Open Threads**, **Later and Parked**, and **Explicit Deferrals**. Keep a simple task to one line and use a short thread note when preparation warrants it. Priorities need not identify the last active thread. Distinguish documented plans from suggested next actions, and state when current focus or a stopping point is unknown. Do not infer authorial intent from modification dates.
+
+A parked thread is unfinished work, not automatically an author-imposed restriction. Preserve the actual scope of explicit deferrals. Listing a task authorises neither its execution nor its possible setting outcomes. Keep proposals, selected decisions, and unresolved alternatives distinguishable.
+
+Keep this a current working page. Dates, IDs, estimates, session logs, exhaustive backlogs, and recurring reviews are not required. Add a date only when it helps interpret a checkpoint. Do not promote every unanswered setting question into a task or refresh untouched entries merely for tidiness. A near-empty page is valid when nothing remains planned.
 
 ## Validation Scope and Stopping Rule
 

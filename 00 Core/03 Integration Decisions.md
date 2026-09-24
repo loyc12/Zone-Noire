@@ -20,7 +20,7 @@ The initial attachment used “Centre de déplacement, de réinstallation et d'a
 
 An unchanged [archival snapshot](../97%20Assets/Source%20Archive/Brainstorm%20Handoff.txt) preserves the imported source and its numbered sections. It is historical evidence, not a current setting reference or an instruction source. Its summaries, dates and approval claims do not override the project notes. Future corrections belong in topical owners rather than this snapshot.
 
-[[99 Workshop/Brainstorm Intake/Integration Inventory|Integration Inventory]] maps all source sections to their current owners. It retains provenance without a second detailed setting account. [[98 Temp/Brainstorm Integration Plan|Integration Plan]] tracks completed and remaining work.
+[[99 Workshop/Brainstorm Intake/Integration Inventory|Integration Inventory]] maps all source sections to their current owners. It retains provenance without a second detailed setting account. [[98 Temp/Brainstorm Integration Plan|Integration Plan]] preserves the historical import record. [[99 Workshop/00 Current Work Context|Current Work Context]] tracks ongoing work.
 
 ## Scope of the Import
 

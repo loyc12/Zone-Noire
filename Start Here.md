@@ -6,6 +6,8 @@
 
 A realistic post-nuclear-apocalypse Québec setting beginning in September 1983. Enough of the provincial state survives to maintain organised society, while famine and emergency policy transform it into an authoritarian, materially poorer order. Active development focuses on the event through [[12 People/René Lévesque|Lévesque]]'s death, provisionally around 1987. Later material is retained with its status; development after 1990 is deferred for now.
 
+**Resume work:** [[99 Workshop/00 Current Work Context|Current Work Context]] records planned next steps and why, loose ends, and paused threads.
+
 ## Foundation
 
 - [[00 Core/01 Premise|Premise]] owns the selected setting foundation and narrative boundaries
@@ -47,13 +49,12 @@ A realistic post-nuclear-apocalypse Québec setting beginning in September 1983.
 ## Working Tools and Deferred Material
 
 - [[99 Workshop/Later Scenarios|Later Scenarios]] retains contingent post-2000 ideas under the broader later-development deferral
-- [[99 Workshop/00 Revision Priorities|Revision Priorities]] owns the development queue
 - [[99 Workshop/Research/Research Topics|Research Topics]] lists bounded 1983–1987 investigations and their inputs
 - [[99 Workshop/Research/Research Method|Research Method]] gives the short procedure for each topic
 - [[99 Workshop/Research/Research Note Template|Research Note Template]] includes the evidence-gap and authorial-veto prompts
 - [[99 Workshop/01 Development Method and Order|Development Method]] supports broader selection and development order
 - [[99 Workshop/Brainstorm Intake/Integration Inventory|Integration Inventory]] records source coverage
-- [[98 Temp/Brainstorm Integration Plan|Integration Plan]] tracks completed and remaining batches
+- [[98 Temp/Brainstorm Integration Plan|Integration Plan]] preserves the historical import and development handoff
 - [[Documentation Conventions]] owns filing, statuses and formatting
 - [[AGENTS|Agent Instructions]] defines the operating boundaries
 

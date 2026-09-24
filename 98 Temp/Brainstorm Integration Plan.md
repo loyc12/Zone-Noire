@@ -1,20 +1,20 @@
 # Brainstorm Integration Plan
 
-**Type: Integration progress plan**
+**Type: Integration record**
 
-**Status: Active**
+**Status: Superseded as an active work tracker**
 
-**Scope: Completed intake and early-setting import, with an active 1983–1987 research agenda**
+**Scope: Historical intake and early-setting import record**
 
-This plan tracks work. [[00 Core/01 Premise|Premise]], [[00 Core/02 Axioms|Axioms]] and topical owners now contain the setting. [[00 Core/03 Integration Decisions|Integration Decisions]] records the handoff adoption and the later choice to focus on the event through [[12 People/René Lévesque|Lévesque]]'s death. New names, open mechanisms and later projections have not been silently selected.
+This record preserves the import and its handoff. [[99 Workshop/00 Current Work Context|Current Work Context]] now owns ongoing work, next steps, and loose ends. [[00 Core/01 Premise|Premise]], [[00 Core/02 Axioms|Axioms]] and topical owners now contain the setting. [[00 Core/03 Integration Decisions|Integration Decisions]] records the handoff adoption and the later choice to focus on the event through [[12 People/René Lévesque|Lévesque]]'s death. New names, open mechanisms and later projections have not been silently selected.
 
-## Progress by Batch
+## Progress at Handoff
 
 | Batch | State | Result and remaining boundary |
 | --- | --- | --- |
 | 1. Preservation and classification | Complete, superseded review sheets consolidated | Source preserved, all 46 sections accounted for, classification resolved into current note statuses |
 | 2. Early-setting import | Complete | Premise and axioms aligned, early chronology and topical references created, open details retained with their owners |
-| 3. Deferred material and future work | Partly complete | Later scenarios, provisional terminology and a prioritised queue now have owners, detailed research and scenario dependency review remain |
+| 3. Deferred material and future work | Retention complete, development transferred | Later scenarios, provisional terminology and a work queue have owners. Research and scenario dependency review continue through Current Work Context within the author's scope |
 | 4. Navigation and validation | Complete for this import | Entry page, guidance, ownership and queue updated, affected-content checks passed |
 
 ## Original Tasks and Their Disposition
@@ -26,26 +26,18 @@ This plan tracks work. [[00 Core/01 Premise|Premise]], [[00 Core/02 Axioms|Axiom
 | 3. Physical scenario and early chronology | Complete | [[01 World/Early Chronology\|Chronology]] links the exchange, climate, fallout and place owners |
 | 4. Institutions, society and material systems | Complete | Substantive owners in `11 Society` and `10 Technologies and Infrastructure`, with expansion questions distributed locally |
 | 5. Later scenarios and terminology | Retention complete, development deferred | [[99 Workshop/Later Scenarios\|Later Scenarios]] preserves the projected future, [[00 Core/04 Terminology\|Terminology]] preserves proposed labels |
-| 6. Dependencies and research queue | Method and topics documented; five baseline source scans complete | [[99 Workshop/00 Revision Priorities\|Revision Priorities]] orders the work, [[99 Workshop/Research/Research Topics\|Research Topics]] links the scans and their provisional choices, and topic notes retain setting decisions |
+| 6. Dependencies and research queue | Method and topics documented; five baseline source scans complete | [[99 Workshop/00 Current Work Context\|Current Work Context]] orders the work, [[99 Workshop/Research/Research Topics\|Research Topics]] links the scans and their provisional choices, and topic notes retain setting decisions |
 | 7. Connect repository guidance and navigation | Complete | [[Start Here]] routes to actual owners, stale blanket deferrals and old ownership statements replaced |
 | 8. Validate integration | Complete | Source preservation, coverage, links, list formatting, approval boundaries and retired intake references checked |
 
-## Remaining Work
+## Development Handoff
 
-- Follow the author's active scope of the event through Lévesque's death, provisionally around 1987; retain 1988–1990 proposals outside current development and defer development after 1990
-- Use the documented [[99 Workshop/Research/Research Method|Research Method]] and [[99 Workshop/Research/Research Topics|Research Topics]] for future topic-by-topic investigations
-- Bound exchange targets, missile failures and local survival assumptions before researching detailed effects
-- Reconcile climate, agriculture and famine timing without changing dates solely to fit the political arc
-- Test the expected 1984–1985 mortality peak; no minimum population or death toll has been selected
-- Continue focused work from the initial [[99 Workshop/Research/Research Topics|source scans]] on personnel, equipment and northern dependencies; review their provisional gap-fillers with the author
-- Review proposed terminology, source spellings and singular/plural variants without treating the glossary as selected nomenclature
-- Refine scenario dependencies when later work resumes, especially the requirements for industrial recovery, democratisation and trade
-- Continue developing regional and ordinary-life detail only within the author's chosen 1983–1987 scope
+The remaining development work is retained in [[99 Workshop/00 Current Work Context|Current Work Context]]: exchange and survival bounds, climate and food consequences, mortality timing, the five baseline scans and pending choices, terminology, regional detail, and later reconstruction dependencies. Maintain its next steps and loose ends there rather than updating this historical record.
 
-These items are future development, not unfinished filing of stable early-setting information. The five later baseline source scans now live in Research Topics; their proposals remain unselected. The planned three later-scenario files remain one substantive deferred note for now, with links to early dependencies. Split it only when further work makes separate owners useful.
+These are development tasks, not unfinished filing of stable early-setting information. [[99 Workshop/Research/Research Topics|Research Topics]] retains the bounded investigations and source-scan links, while each research note owns its evidence and unselected proposals. The planned three later-scenario files remain one substantive deferred note with early-dependency links. Split it only when further work makes separate owners useful.
 
 ## Cleanup and Preservation
 
 The detailed intake classification, source record and working handoff were removed from Workshop after their information was routed to current owners. An unchanged source snapshot remains in `97 Assets/Source Archive` solely for provenance. It is not a parallel authority for the setting. The integration inventory is a compact routing index.
 
-This progress plan remains in Temp at the author's request. It contains work status rather than a second detailed account of the setting. Corpus prose and editor configuration are outside the import.
+This historical plan remains in Temp at the author's request. It retains import provenance rather than an ongoing development queue or a second detailed setting account. Corpus prose and editor configuration are outside the import.

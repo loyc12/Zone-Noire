@@ -42,4 +42,4 @@ The tone is grounded alternate history with institutional and logistical realism
 
 Exact targets, local damage, population losses, refugee numbers, institutional names, succession, constitutional structure, northern political agreements and neighbouring successor states remain open. The title does not yet designate an in-setting place or hazard classification. Individual stories, protagonists, narrative form, language and voice remain undecided.
 
-[[00 Core/02 Axioms|Axioms]] owns durable design constraints. [[99 Workshop/00 Revision Priorities|Revision Priorities]] identifies the next questions without supplying their answers.
+[[00 Core/02 Axioms|Axioms]] owns durable design constraints. [[99 Workshop/00 Current Work Context|Current Work Context]] identifies the next questions without supplying their answers.

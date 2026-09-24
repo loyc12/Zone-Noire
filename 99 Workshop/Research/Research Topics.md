@@ -6,7 +6,7 @@
 
 **Scope: The September 1983 event through [[12 People/René Lévesque|Lévesque]]'s death, provisionally around 1987**
 
-Choose one numbered topic for a research pass, or batch closely related small topics. Each topic should produce its own note using [[99 Workshop/Research/Research Method|Research Method]] and, when useful, [[99 Workshop/Research/Research Note Template|Research Note Template]]. The inputs below are specific dependencies, not a requirement to finish every earlier topic. Where an input remains unknown, use conditional ranges and state the assumption. A topic can reach a usable, explicitly uncertain recommendation without a complete historical dataset. [[99 Workshop/00 Revision Priorities|Revision Priorities]] owns the broader work order and deferrals.
+Choose one numbered topic for a research pass, or batch closely related small topics. Each topic should produce its own note using [[99 Workshop/Research/Research Method|Research Method]] and, when useful, [[99 Workshop/Research/Research Note Template|Research Note Template]]. The inputs below are specific dependencies, not a requirement to finish every earlier topic. Where an input remains unknown, use conditional ranges and state the assumption. A topic can reach a usable, explicitly uncertain recommendation without a complete historical dataset. [[99 Workshop/00 Current Work Context|Current Work Context]] owns work order, continuation notes, pending-choice pointers, and deferrals. This agenda owns the bounded questions and inputs, while research notes own evidence and outcomes.
 
 ## Quick Starts
 

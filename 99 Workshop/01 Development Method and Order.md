@@ -28,4 +28,4 @@ This is a proposed working order, not a selected disaster history or a requireme
 
 Keep research comparisons and calculations in Workshop or beside their topic. Selected setting answers belong in their topical owners. Author-facing narrative planning belongs in `80 Narrative` when needed. Corpus prose remains entirely user-written.
 
-[[99 Workshop/00 Revision Priorities|Revision Priorities]] owns current work order and deferrals. [[Documentation Conventions]] owns filing, status, and maintenance rules.
+[[99 Workshop/00 Current Work Context|Current Work Context]] owns current work order, next steps and why, loose ends, and deferrals. [[Documentation Conventions]] owns filing, status, and maintenance rules.
