@@ -13,7 +13,7 @@ A realistic post-nuclear-apocalypse Québec setting beginning in September 1983.
 - [[00 Core/01 Premise|Premise]] owns the selected setting foundation and narrative boundaries
 - [[00 Core/02 Axioms|Axioms]] owns the design constraints
 - [[00 Core/03 Integration Decisions|Integration Decisions]] records adoption scope and source provenance
-- [[00 Core/04 Terminology|Terminology]] records proposed names and labels
+- [[Zone Noire/00 Core/04 Terminology|Terminology]] records proposed names and labels
 
 ## World and Early Post-Event History
 

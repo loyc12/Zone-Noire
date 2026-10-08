@@ -51,7 +51,7 @@ The revised handoff has been imported into the owners below. [[00 Core/03 Integr
 | 40. Compact Timeline | [[01 World/Early Chronology\|Early Chronology]], [[99 Workshop/Later Scenarios\|Later Scenarios]] | Split early context from deferred later material |
 | 41. Possible Expansion Topics | [[99 Workshop/00 Current Work Context\|Current Work Context]] | A–O questions distributed to the topical owners listed below, Current Work Context owns work order and continuation notes |
 | 42. Important Realism Constraints | [[00 Core/02 Axioms\|02 Axioms]] | Design constraints adopted, unsupported quantitative or deterministic claims not promoted |
-| 43. Glossary of Provisional Project Terminology | [[00 Core/04 Terminology\|04 Terminology]] | All names retained as provisional, author glossary correction incorporated |
+| 43. Glossary of Provisional Project Terminology | [[Zone Noire/00 Core/04 Terminology\|04 Terminology]] | All names retained as provisional, author glossary correction incorporated |
 | 44. Canon Status Summary | [[00 Core/01 Premise\|01 Premise]], [[00 Core/03 Integration Decisions\|03 Integration Decisions]] | Repeated summary consolidated into foundation and topic notes, later claims remain deferred |
 | 45. Recommended Initial Repository Structure | [[00 Core/03 Integration Decisions\|03 Integration Decisions]] | Advisory material retained only in archival source, no imported rules |
 | 46. Guidance for the Dedicated Agent | [[00 Core/03 Integration Decisions\|03 Integration Decisions]] | Advisory material retained only in archival source, no imported rules |

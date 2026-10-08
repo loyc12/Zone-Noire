@@ -25,7 +25,7 @@ This record preserves the import and its handoff. [[99 Workshop/00 Current Work 
 | 2. Establish approval groups | Complete for this import | Stable foundation adopted, revisable directions recorded in topic notes, explicit proposals remain open |
 | 3. Physical scenario and early chronology | Complete | [[01 World/Early Chronology\|Chronology]] links the exchange, climate, fallout and place owners |
 | 4. Institutions, society and material systems | Complete | Substantive owners in `11 Society` and `10 Technologies and Infrastructure`, with expansion questions distributed locally |
-| 5. Later scenarios and terminology | Retention complete, development deferred | [[99 Workshop/Later Scenarios\|Later Scenarios]] preserves the projected future, [[00 Core/04 Terminology\|Terminology]] preserves proposed labels |
+| 5. Later scenarios and terminology | Retention complete, development deferred | [[99 Workshop/Later Scenarios\|Later Scenarios]] preserves the projected future, [[Zone Noire/00 Core/04 Terminology\|Terminology]] preserves proposed labels |
 | 6. Dependencies and research queue | Method and topics documented; five baseline source scans complete | [[99 Workshop/00 Current Work Context\|Current Work Context]] orders the work, [[99 Workshop/Research/Research Topics\|Research Topics]] links the scans and their provisional choices, and topic notes retain setting decisions |
 | 7. Connect repository guidance and navigation | Complete | [[Start Here]] routes to actual owners, stale blanket deferrals and old ownership statements replaced |
 | 8. Validate integration | Complete | Source preservation, coverage, links, list formatting, approval boundaries and retired intake references checked |

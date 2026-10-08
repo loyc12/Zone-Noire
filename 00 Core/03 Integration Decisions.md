@@ -24,7 +24,7 @@ An unchanged [archival snapshot](../97%20Assets/Source%20Archive/Brainstorm%20Ha
 
 ## Scope of the Import
 
-Early-setting references now live in `01 World`, `10 Technologies and Infrastructure`, and `11 Society`. Open details live beside their subjects. [[00 Core/04 Terminology|Terminology]] owns the provisional vocabulary. [[99 Workshop/Later Scenarios|Later Scenarios]] retains projected post-2000 development separately.
+Early-setting references now live in `01 World`, `10 Technologies and Infrastructure`, and `11 Society`. Open details live beside their subjects. [[Zone Noire/00 Core/04 Terminology|Terminology]] owns the provisional vocabulary. [[99 Workshop/Later Scenarios|Later Scenarios]] retains projected post-2000 development separately.
 
 The import preserves the source's concrete lists, alternatives and expansion questions. It changes filing, framing and author-facing spelling where appropriate, consolidates repeated material and marks uncertain timing. It does not add researched targets, demographic estimates, political actors or new fictional history.
 
